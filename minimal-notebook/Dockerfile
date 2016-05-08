@@ -1,11 +1,11 @@
+# modified from https://github.com/jupyter/docker-stacks
+
 # Copyright (c) Jupyter Development Team.
 # Distributed under the terms of the Modified BSD License.
 
-# Debian Jessie image released 2016 March 01.
-# FROM debian@sha256:a9c958be96d7d40df920e7041608f2f017af81800ca5ad23e327bc402626b58e
 FROM ubuntu:latest
 
-MAINTAINER Jupyter Project <jupyter@googlegroups.com>
+MAINTAINER Pablo Winant <pablo.winant@gmail.com>
 
 USER root
 
